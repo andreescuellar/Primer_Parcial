@@ -12,6 +12,7 @@
  
  
  ## c) Power Ranger
+ 
  1. Crear la clase FabricaRanger
 
    1.1 Esta sera la clase padre que heredara a las demas clases.
