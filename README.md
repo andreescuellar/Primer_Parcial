@@ -15,13 +15,13 @@
  
  1. Crear la clase FabricaRanger
 
-   1.1 Esta sera la clase padre que heredara a las demas clases.
-   
-   1.2 Se declaran todos los atributos que debe tener un monstruo de la serie Power Ranger.
-   
-   1.3 Se hace un get y set de los atributos del monstruo. 
-   
-   1.4 Se hace un toString que englobe todos los atributos en una cadena alfanumerica.
+    1.1 Esta sera la clase padre que heredara a las demas clases.
+
+    1.2 Se declaran todos los atributos que debe tener un monstruo de la serie Power Ranger.
+
+    1.3 Se hace un get y set de los atributos del monstruo. 
+
+    1.4 Se hace un toString que englobe todos los atributos en una cadena alfanumerica.
 
  ![](Fabrica.png)
 
