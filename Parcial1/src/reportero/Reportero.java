@@ -1,5 +1,7 @@
 package reportero;
-
+/**
+ * @author: Carlos Cuéllar
+ */
 public interface Reportero {
 	public String calcularGanador(int a, int b);
 	public String calcularCampeon();
